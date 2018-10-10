@@ -42,9 +42,6 @@ Our aim is to establish a robust feature selection machine learning model to sel
 
 For detailed illustration of our pipeline please see [**Work Summary**](#work)
 
-## Codes:
-[exSeek GitHub](https://github.com/james20141606/exRNA/)
-
 
 
 ## Related
