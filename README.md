@@ -1,5 +1,5 @@
-# exRNA
-feature selection and classification of HCC using exRNA
+# exSeek
+Also see my [website page](https://www.cmwonderland.com/blog/2018/10/10/101-exrna-project/)
 
 ## mapping
 ultra fast mapping order and stastistics
