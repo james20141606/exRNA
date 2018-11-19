@@ -1,15 +1,18 @@
 # exSeek
 Also see my [website page](https://www.cmwonderland.com/blog/2018/10/10/101-exrna-project/)
 
-The aim of this project is to combine **small cell free RNA sequencing techniques** with **machine learning** to identify promising candidate biomarker for cancers. We establish the pipeline from mapping to feature selection and propose a **robust feature selection method** to identify potential biomarkers.
+The aim of this project is to combine **small cell free RNA sequencing techniques** with **machine learning** to identify promising candidate biomarker for cancers. We construct the whole pipeline from mapping to expression matrix construction( full length and domain feature) to feature selection and propose a **robust feature selection method** to identify potential biomarkers.
 
+This repo stops updating since we are writing a paper based on the work.
+
+![](./plots/wholepipe.png)
 
 ### mapping 
 
 
 We use sequential mapping strategy for small RNA data (HCC exRNA and GSE71008)
 We use fast mapping order test method to map in thousands of different orders in a very short time and decide the order.
-![Markdown](http://i2.tiimg.com/640680/a7331057c61ed2a8.png)
+![](./plots/mapping_pipe.png)
 
 ### construct expression matrix
 
